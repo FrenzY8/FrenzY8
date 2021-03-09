@@ -1,43 +1,44 @@
 ### Hi there 👋
-Hi All! Im FrenzY8 Tell Me FrenzYSG! 👋
+Hi All! Im FrenzY8 Tell Me *FrenzYSG!* 👋
+About Me And This Account!
 
-SchooL : Unity Class ( Game Little Project )
-
--
-
-Project : Growtopia Private Server (2018) Minecraft SMP (2019)
+-SchooL : *Unity Class ( Game Little Project )*
 
 -
 
-Coder : No.
+-Project : *Growtopia Private Server (2018) Minecraft SMP (2019)*
 
 -
 
-Whatsapp : 6285283200715
+-Coder : *No.*
 
 -
 
-Instagram : @only.frenzy_
+-Whatsapp : *6285283200715*
 
 -
 
-About this Account : This Acc is For BackUp All JaVSC
+-Instagram : *@only.frenzy_
 
 -
 
-Country : Indonesia
+-About this Account : *This Acc is For BackUp All JaVSC
 
 -
 
-Years Old? : Maybe 15
+-Country : *Indonesia
 
 -
 
-Gender : Man (GoodBoy)
+-Years Old? : *Maybe 15
 
 -
 
-Contribution On : 
+-Gender : *Man (GoodBoy)
+
+-
+
+-Contribution On : *Growtopia Private Server
 
 Thanks For check My github User Account
 
