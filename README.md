@@ -1,5 +1,30 @@
 ### Hi there 👋
 Hi All! Im FrenzY8 Tell Me FrenzYSG! 👋
-![image](https://user-images.githubusercontent.com/75056113/110418108-7a165d80-80c9-11eb-8473-3d1f45d786ab.png)
 
--->
+Schoo : 
+
+Project : 
+
+Coder : 
+
+Whatsapp : 
+
+Instagram : 
+
+About this Account : 
+
+Country : 
+
+Years Old? :
+
+Gender : 
+
+Contribution On : 
+
+Thanks For check My github User Account
+
+this Account is for Backup All File JavSc>
+
+and Thanks For Follow My GITHub!
+
+--> FrenzYSG
