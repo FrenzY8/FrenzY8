@@ -1,6 +1,6 @@
-<h1 align="center">FrenzY Singapore</h1>
+<h1 align="center">Frenzy Singapore</h1>
 
-<img align="right" alt="GIF" height="120px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+<img align="right" alt="GIF" height="150px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 **Personal Stuffs:**
 - 🌱 I'm currently learning `JavaScript` and `Python`
