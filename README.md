@@ -1,10 +1,10 @@
-<h1 align="center">Faiz Bastomi</h1>
+<h1 align="center">FrenzY Singapore</h1>
 
 <img align="right" alt="GIF" height="120px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
 
 **Personal Stuffs:**
-- 🌱 I'm currently learning `JavaScript`
-- 🔭 I'm currently working on my side project
+- 🌱 I'm currently learning `JavaScript` and `Python`
+- 🔭 I'm very nub on `C++`
 
 <details>
 <summary>My Stats</summary>
@@ -17,8 +17,8 @@
 <details>
 <summary>Pins Repository</summary>
 
-[![selfbot-baileys](https://github-readme-stats.vercel.app/api/pin/?username=BotWAIndo&repo=selfbot-baileys&theme=radical)](https://github.com/BotWAIndo/selfbot-baileys)
-[![kaguya-bot](https://github-readme-stats.vercel.app/api/pin/?username=FaizBastomi&repo=kaguya-bot&theme=radical)](https://github.com/FaizBastomi/kaguya-bot)
+[![AnonymousBOT](https://github-readme-stats.vercel.app/api/pin/?username=BotWAIndo&repo=selfbot-baileys&theme=radical)](https://github.com/FrenzY8/AnonymousBOT-Whatsapp)
+[![Save.Dat Stealers Growtopia](https://github-readme-stats.vercel.app/api/pin/?username=FaizBastomi&repo=kaguya-bot&theme=radical)](https://github.com/FrenzY8/Growtopia-Save.dat-Stealer)
 
 </details>
 
