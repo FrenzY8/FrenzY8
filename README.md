@@ -17,8 +17,8 @@
 <details>
 <summary>Pins Repository</summary>
 
-[![AnonymousBOT](https://github-readme-stats.vercel.app/api/pin/?username=BotWAIndo&repo=selfbot-baileys&theme=radical)](https://github.com/FrenzY8/AnonymousBOT-Whatsapp)
-[![Save.Dat Stealers Growtopia](https://github-readme-stats.vercel.app/api/pin/?username=FaizBastomi&repo=kaguya-bot&theme=radical)](https://github.com/FrenzY8/Growtopia-Save.dat-Stealer)
+[![AnonymousBOT](https://github-readme-stats.vercel.app/api/pin/?username=FrenzY8&repo=AnonymousCHAT-Whatsapp&theme=radical)](https://github.com/FrenzY8/AnonymousCHAT-Whatsapp)
+[![Save.Dat Stealers Growtopia](https://github-readme-stats.vercel.app/api/pin/?username=FrenzY8&repo=Growtopia-Save.dat-Stealer&theme=radical)](https://github.com/FrenzY8/Growtopia-Save.dat-Stealer)
 
 </details>
 
