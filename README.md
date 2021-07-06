@@ -14,8 +14,7 @@
 <h3 align="center"></h3>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Faris0520&label=Stalker" /> </p>
 <p align="center"><b>Helloooooooooooooooooooooooo xD</b></p>
-<img align="middle" alt="GIF" height="1000px" src="https://media.giphy.com/media/lv2Pwd5dgZ76U/source.gif" />  align="middle" alt="GIF" height="1000px" src="https://media.giphy.com/media/lv2Pwd5dgZ76U/source.gif" />  
-
+<img align="middle" alt="GIF" height="1000px" src="https://media.giphy.com/media/lv2Pwd5dgZ76U/source.gif" /> 
 <details>
 <summary>My Stats</summary>
 
