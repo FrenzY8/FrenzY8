@@ -6,6 +6,12 @@
 - 🌱 I'm currently learning `JavaScript` and `Python`
 - 🔭 I'm very nub on `C++`
 
+**Experience :**
+- Software Engineer, Jakarta
+- Founder of Technology Machinery, North Jakarta
+- Founder of Discord Bot
+- Working as a Bug Handler in the Freefire (Unity) Game
+
 <details>
 
 
@@ -16,18 +22,12 @@
 <p align="center"><b>Helloooooooooooooooooooooooo xD</b></p>
 <img align="middle" alt="GIF" height="1000px" src="https://media.giphy.com/media/lv2Pwd5dgZ76U/source.gif" /> 
 <details>
-<summary>My Stats</summary>
-
-[![FaizBastomi GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizbastomi&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
-[![FaizBastomi Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=faizbastomi&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
-
-</details>
 
 <details>
 <summary>Pins Repository</summary>
 
 [![AnonymousBOT](https://github-readme-stats.vercel.app/api/pin/?username=FrenzY8&repo=AnonymousCHAT-Whatsapp&theme=radical)](https://github.com/FrenzY8/AnonymousCHAT-Whatsapp)
-[![Save.Dat Stealers Growtopia](https://github-readme-stats.vercel.app/api/pin/?username=FrenzY8&repo=Growtopia-Save.dat-Stealer&theme=radical)](https://github.com/FrenzY8/Growtopia-Save.dat-Stealer)
+[![GrowtopiaRPC](https://github-readme-stats.vercel.app/api/pin/?username=FrenzY8&repo=growtopia-rpc&theme=radical)](https://github.com/FrenzY8/Growtopia-Save.dat-Stealer)
 
 </details>
 
