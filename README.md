@@ -10,18 +10,6 @@
     <img src="https://discord.c99.nl/widget/theme-2/803549282942058534.png">
 </p> 
 <br/>
-
-<h1 align="center" height="500px">History and About</h1>
-
-**Experience :**
-- Software Engineer, Jakarta
-- Founder of Technology Machinery, North Jakarta
-- Founder of Discord Bot
-- Working as a Bug Handler in the Freefire (Unity) Game
-<p align="center">
-
-<br/>
-
 <h1 align="center" height="500px">My Tools</h1>
 
 <div align="center">   
