@@ -4,14 +4,9 @@
 <img src="./giphy.webp"/>
 <a align="center">
 
-<h1 align="center" height="500px">👻 My Info</h1>
-
 - 😢 Work in 3 Bot Currently.
 - 😲 C++ Growtopia Servers Devlopers
 - 😷 Gimme a [Support](https://saweria.co/FrenzyS6)
-
-<h1 align="center" height="500px">👻 MediaSocial </h1>
-
 - 😘 Get [me](https://github.com/FrenzY8) on [Instagram](https://instagram.com/FrenzyS6)
 
 <p align="center">
