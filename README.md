@@ -1,7 +1,5 @@
-<h1 align="center" height="500px">🌱 Welcome to My Profiles! 🌱</h1>
-
 <p align="center">
-<img src="./giphy.webp"/>
+<img src="./giphy (1).webp"/>
 <a align="center">
 
 - 😢 Work in 3 Bot Currently.
