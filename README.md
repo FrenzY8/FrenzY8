@@ -8,5 +8,5 @@
 - 😘 Get [me](https://github.com/FrenzY8) on [Instagram](https://instagram.com/FrenzyS6)
 
 <p align="center">
-<img src="https://discord.c99.nl/widget/theme-2/803549282942058534.png">
+<img src="https://discord.c99.nl/widget/theme-3/833213256155922432.png">
 <div align="center">
