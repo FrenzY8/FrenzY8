@@ -2,6 +2,10 @@
 <img src="./giphy (1).webp"/>
 <a align="center">
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzy8&theme=tokyonight">
+<div align="center">
+
 - 😢 Work in 3 Bot Currently.
 - 😲 C++ Growtopia Servers Devlopers
 - 😷 Gimme a [Support](https://saweria.co/FrenzyS6)
