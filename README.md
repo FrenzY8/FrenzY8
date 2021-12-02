@@ -3,11 +3,11 @@
 <a align="center">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=frenzy8&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzy8&theme=tokyonight">
 <div align="center">
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzy8&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/?username=frenzy8&theme=tokyonight">
 <div align="center">
 
 - 😢 Work in 3 Bot Currently.
