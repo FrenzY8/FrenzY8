@@ -8,5 +8,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=FrenzY8&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+### 🗨️ Discord
+![](https://discord.c99.nl/widget/theme-4/833213256155922432.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
