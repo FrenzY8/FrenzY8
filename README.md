@@ -9,9 +9,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=sozuv0m2y8qc4jkn3jx5n01kl">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sozuv0m2y8qc4jkn3jx5n01kl&show_border=1&hide_title=1&hide_recents=1" alt="Data Card for Spotify">
-</a>
+<p align="center"> <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=sozuv0m2y8qc4jkn3jx5n01kl"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sozuv0m2y8qc4jkn3jx5n01kl&show_border=1&hide_title=1&hide_recents=1" alt="Data Card for Spotify"></a></p> 
 
 <!-- <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=sozuv0m2y8qc4jkn3jx5n01kl">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sozuv0m2y8qc4jkn3jx5n01kl&show_border=1&hide_title=1&hide_playing=1&hide_recents=1&hide_top_tracks=1&limit=1" alt="Data Card for Spotify">
