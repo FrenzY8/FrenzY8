@@ -16,7 +16,7 @@
 
 <p align="center"> <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=sozuv0m2y8qc4jkn3jx5n01kl"><img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sozuv0m2y8qc4jkn3jx5n01kl&show_border=1&hide_title=1&hide_recents=1" alt="Data Card for Spotify"></a></p> 
 
-![](https://streak-stats.demolab.com/?user=FrenzY8&theme=dark&hide_border=false)
+<p align="center"> <a href="https://streak-stats.demolab.com/?user=FrenzY8&theme=dark&hide_border=false"><img src="https://streak-stats.demolab.com/?user=FrenzY8&theme=dark&hide_border=false" alt="Profile Stats"></a></p>
 
 <!-- <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=sozuv0m2y8qc4jkn3jx5n01kl">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=sozuv0m2y8qc4jkn3jx5n01kl&show_border=1&hide_title=1&hide_playing=1&hide_recents=1&hide_top_tracks=1&limit=1" alt="Data Card for Spotify">
